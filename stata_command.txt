@@ -1,0 +1,4 @@
+Stata fixed effect regression with dummy variable method 指令:
+
+reg  y x1 x2 ...i.xn... 
+想要dummy話的變數xn前面加上i.即可自動編碼
