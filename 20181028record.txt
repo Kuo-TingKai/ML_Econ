@@ -1,0 +1,5 @@
+coursera
+	nlp  nltk
+	dl 
+	
+pyalgotrade
