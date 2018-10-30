@@ -10,3 +10,6 @@ nlp in finance:
 https://github.com/chenbowen184/Research_Documents_Curation_with_NLP 
 
 text regression
+
+vehicle-detection:https://github.com/ndrplz/self-driving-car/tree/master/project_5_vehicle_detection
+aero-imagery:https://github.com/mapbox/robosat
