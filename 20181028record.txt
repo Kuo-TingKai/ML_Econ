@@ -5,3 +5,8 @@ coursera
 pyalgotrade
 
 pbrito
+
+nlp in finance:
+https://github.com/chenbowen184/Research_Documents_Curation_with_NLP 
+
+text regression
